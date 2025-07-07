@@ -4,7 +4,7 @@ go 1.23.0
 
 toolchain go1.24.1
 
-require github.com/docker/docker v28.2.2+incompatible
+require github.com/docker/docker v28.3.1+incompatible
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
